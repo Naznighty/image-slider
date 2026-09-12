@@ -11,6 +11,10 @@ A lightweight, dependency-free image slider built with vanilla HTML, CSS, and Ja
 - **State-driven** — a single `current` index drives rendering, no duplicated logic
 - **No dependencies** — pure HTML/CSS/JS, easy to drop into any project
 
+
+🔗 **[Live Demo](https://naznighty.github.io/image-slider/)**
+
+
 ## 🛠️ Tech Stack
 
 - HTML5
