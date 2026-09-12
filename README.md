@@ -40,7 +40,3 @@ A lightweight, dependency-free image slider built with vanilla HTML, CSS, and Ja
 - Change autoplay speed: edit `AUTOPLAY_DELAY` in `script.js`
 - Change transition speed: edit the `transition` value on `.slides` in `style.css`
 - Add/remove slides: add or remove `.slide` divs in `index.html`
-
----
-
-**Short description:** A responsive, auto-playing image slider built from scratch with vanilla JavaScript — featuring dot navigation, manual controls, and hover-to-pause behavior.
